@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Video Feature - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Video Feature component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/video-feature)
+- [Info Page](https://codyhouse.co/ds/components/info/video-feature)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
